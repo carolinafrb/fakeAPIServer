@@ -30,16 +30,19 @@
   ],
   "wind": [
     {
+	  "id": 1,
 	  "day": "23-07-2017",
       "intensity": "5.5 km/h",
       "direction": "SE"
     },
     {
+	  "id": 2,
 	  "day": "24-07-2017",
       "intensity": "1.5 km/h",
       "direction": "S"
     },
 	{
+	  "id": 3,
       "day": "25-07-2017",
       "intensity": "1.8 km/h",
       "direction": "SE"
@@ -47,6 +50,7 @@
   ],
   "sea-waves": [
     {
+	  "id": 1,
 	  "day": "23-07-2017",
       "meters": 2.5,
       "direction": "SW",
@@ -54,6 +58,7 @@
 	  "units": "ºC"
     },
     {
+	  "id": 2,
 	  "day": "24-07-2017",
       "meters": 1.2,
       "direction": "SW",
@@ -61,6 +66,7 @@
 	  "units": "ºC"
     },
 	{
+	  "id": 3,
       "day": "25-07-2017",
       "meters": 1.2,
       "direction": "SW",
