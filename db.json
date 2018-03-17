@@ -1,6 +1,7 @@
 {
   "weather": [
     {
+	  "id": 1,
 	  "day": "23-07-2017",
       "temp-max": 25,
 	  "temp-min": 16,
@@ -9,6 +10,7 @@
 	  "description": "Sunny day"
     },
     {
+	  "id": 2,
       "day": "24-07-2017",
       "temp-max": 23,
 	  "temp-min": 14,
@@ -17,6 +19,7 @@
 	  "description": "Sunny day, with clouds"
     },
     {
+	  "id": 3,
       "day": "25-07-2017",
       "temp-max": 26,
 	  "temp-min": 19,
