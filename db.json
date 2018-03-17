@@ -1,4 +1,68 @@
 {
- "id": 1,
- "title": "hello"
+  "weather": [
+    {
+	  "day": "23-07-2017",
+      "temp-max": 25,
+	  "temp-min": 16,
+      "units": "ºC",
+	  "humidity": 30,
+	  "description": "Sunny day"
+    },
+    {
+      "day": "24-07-2017",
+      "temp-max": 23,
+	  "temp-min": 14,
+      "units": "ºC",
+	  "humidity": 45,
+	  "description": "Sunny day, with clouds"
+    },
+    {
+      "day": "25-07-2017",
+      "temp-max": 26,
+	  "temp-min": 19,
+      "units": "ºC",
+	  "humidity": 20,
+	  "description": "Sunny day"
+    }
+  ],
+  "wind": [
+    {
+	  "day": "23-07-2017",
+      "intensity": "5.5 km/h",
+      "direction": "SE"
+    },
+    {
+	  "day": "24-07-2017",
+      "intensity": "1.5 km/h",
+      "direction": "S"
+    },
+	{
+      "day": "25-07-2017",
+      "intensity": "1.8 km/h",
+      "direction": "SE"
+    }
+  ],
+  "sea-waves": [
+    {
+	  "day": "23-07-2017",
+      "meters": 2.5,
+      "direction": "SW",
+	  "temperature": 21,
+	  "units": "ºC"
+    },
+    {
+	  "day": "24-07-2017",
+      "meters": 1.2,
+      "direction": "SW",
+	  "temperature": 20,
+	  "units": "ºC"
+    },
+	{
+      "day": "25-07-2017",
+      "meters": 1.2,
+      "direction": "SW",
+	  "temperature": 22,
+	  "units": "ºC"
+    }
+  ]
 }
